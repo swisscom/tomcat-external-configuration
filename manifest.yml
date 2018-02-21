@@ -1,0 +1,8 @@
+---
+applications:
+- name: tomcat-external-configuration
+  domain: lyra-836.appcloud.swisscom.com
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  path: repo/
+  memory: 64M
+  instances: 3
