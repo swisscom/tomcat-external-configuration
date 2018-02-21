@@ -15,4 +15,4 @@ tar czvf ../../repo/tomcat7/tomcat-external-configuration-1.0.x.tar.gz .
 cd ../..
 ```
 
-Then add the newly generated tars to `repo/tomcat{7,8}/index.yml` push the app again.
+Then add the newly generated tars to `repo/tomcat{7,8}/index.yml` and push the app again.
