@@ -10,8 +10,8 @@ cd tar/tomcat7
 tar czvf ../../repo/tomcat7/tomcat-external-configuration-1.0.x.tar.gz .
 cd ../..
 
-cd tar/tomcat7
-tar czvf ../../repo/tomcat7/tomcat-external-configuration-1.0.x.tar.gz .
+cd tar/tomcat8
+tar czvf ../../repo/tomcat8/tomcat-external-configuration-1.0.x.tar.gz .
 cd ../..
 ```
 
